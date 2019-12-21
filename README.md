@@ -13,6 +13,7 @@ The website has a lot of features that attract people and retain them. There are
 
 The data from kaggle website has Recipes, Interactions and User information. We are only considering Recipes and Interactions for our analysis. Interations being the reviews and ratings posted for each recipe.
 
+![API Output](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Image/Fooddotcom.png)
 
 
 WHAT THIS PROJECT DO?
