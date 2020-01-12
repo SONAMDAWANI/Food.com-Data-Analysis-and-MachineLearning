@@ -26,23 +26,30 @@ The data from kaggle website has Recipes, Interactions and User information. We 
 ![API Output](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Image/Fooddotcom.png)
 
 
-## WHAT THIS PROJECT DO?
+## Project walk through
+
+### Python libraries used:
+##### pandas, numpy, sklearn, scipy, matplotlib, seaborn, nlkt, apyori
+
 
 We started with selecting interesting data. We choose data of Food.com from kaggle. 
 
-- To understand the data first we did the data analysis, where we saw different data files and there length, central tendency metric for various columns/features, the relation between the features and the outlier analysis. 
+- To understand the data first we did the data analysis, where we saw different data files and there length, central tendency metric for various columns/features, the relation between the features and the __outlier analysis__. 
 
 - Once we analyzed the data and saw the issues, we worked upon to resolve them by handling outliers.
 
-- Then we started with classification where we introduced the new column as Cusine for our data set. Using the new column we analysed our data and came up with interesting analysis. 
+- Then we started with __classification__ where we introduced the new column as Cusine for our data set. Using the new column we analysed our data and came up with interesting analysis. 
+Used __RandomForestClassifier__ for classification, tuned the parameters using __GridSearchCV__ and accomplished the F1 score as 0.75
 
-- Second, we performed clustering over the ingredients, for that we performed PCA, vectorization and K-means. 
+- Second, we performed clustering over the ingredients, for that we performed __PCA__, __TF_IDF__ vectorization and __K-means__. 
 Analysing cluster over rating and review provides us with meaningful insights. 
 
-- After that, we saw regression where by help of Carbs and Calories we predected other nutritional values using Gradient Boosting Regression. 
+- After that, we saw regression where by help of Carbs and Calories we predected other nutritional values using __Gradient Boosting Regression__. 
 
-- Last but not the least we performed Market Basket Analysis which can be profitable for the sales.
+- Last but not the least we performed __Market Basket Analysis__ using __Apriori algorithm__ which can be profitable for the sales.
 
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide1.jpeg?raw=true
+      )
 
 Please check the below notebook for details:
 https://github.com/SONAMDAWANI/Food-and-Recipies-Data-Analysis_Data-Mining-Project/blob/master/DM_Project_Code.ipynb
