@@ -1,5 +1,6 @@
-Hello!
+Hey there!
 I am Sonam Dawani. 
+
 For any question, concern or suggestion, please connect with me on [Linkedin](https://www.linkedin.com/in/sonamdawani/)
 
 # Food-and-Recipies-Data-Analysis
