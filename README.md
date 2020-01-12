@@ -50,6 +50,82 @@ Analysing cluster over rating and review provides us with meaningful insights.
 
 ![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide1.jpeg?raw=true
       )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide2.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide3.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide4.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide5.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide6.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide7.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide8.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide9.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide10.jpeg?raw=true
+      )
+      
+
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide11.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide12.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide13.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide14.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide15.jpeg?raw=true
+      )
+      
+
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide16.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide17.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide18.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide19.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide20.jpeg?raw=true
+      )
+      
+
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide21.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide22.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide23.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide24.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/Food.com-Data-Analysis_Data-Mining-Project/blob/master/Presentation/Slide25.jpeg?raw=true
+      )
+      
 
 Please check the below notebook for details:
 https://github.com/SONAMDAWANI/Food-and-Recipies-Data-Analysis_Data-Mining-Project/blob/master/DM_Project_Code.ipynb
